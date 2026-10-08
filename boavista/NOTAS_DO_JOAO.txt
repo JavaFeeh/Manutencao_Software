@@ -1,0 +1,11 @@
+coisas pra lembrar:
+
+- o sistema_old eh o antigo mas nao apaguei pq o Carlos as vezes pede pra rodar
+- desconto VIP eh 15%?? ou 10? confirmar com Carlos
+- a opcao 9 exporta csv mas parou de funcionar depois que mudei umas coisas
+- NAO MEXER no calc2
+- tem um problema no estoque, desativei a validacao por enquanto
+- senha do servidor ta no config
+- o Marcos falou que ia fazer a integracao com o ERP, deixei o import la
+- se der erro eh so reiniciar
+- lembrar de fazer backup do dados.json (to copiando pro pendrive toda sexta)

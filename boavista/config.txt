@@ -1,0 +1,10 @@
+# configuracoes do sistema
+DESCONTO_VIP=0.15
+DESCONTO_GRANDE=0.05
+FRETE=15
+CAMINHO_DADOS=dados.json
+
+# servidor
+DB_HOST=192.168.0.10
+DB_USER=root
+DB_PASS=Boavista@2019
