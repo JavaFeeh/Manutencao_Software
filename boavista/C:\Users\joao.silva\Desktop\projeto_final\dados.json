@@ -1,0 +1,1 @@
+{"produtos": [{"id": 1, "nome": "macarrao", "preco": 2.7, "qtd": 10, "cat": "comida"}], "clientes": [{"id": 1, "nome": "fernando", "cpf": "45503875800", "tipo": "vip"}], "pedidos": []}

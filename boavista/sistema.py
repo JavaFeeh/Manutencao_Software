@@ -41,6 +41,7 @@ def salva():
         f = open(CAMINHO, "w")
         json.dump({"produtos": p, "clientes": c, "pedidos": ped}, f)
         f.close()
+
     except:
         pass
 
@@ -94,7 +95,7 @@ def cad_prod():
 def remove_prod():
     lista()
     i = int(input("Digite o ID do produto que deseja remover: "))
-    del p[i]
+    del p[i - 1]
     salva()
     print("Produto removido!")
 
